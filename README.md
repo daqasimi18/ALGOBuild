@@ -1,6 +1,3 @@
-Bootstrap neumorphism portfolio landing page
-
-
 # Features
 - Fully Responsive
 - Mobile Navigations
