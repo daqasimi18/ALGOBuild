@@ -1,7 +1,5 @@
 Bootstrap neumorphism portfolio landing page
 
-# Quick Demo
-https://morphie.netlify.app/
 
 # Features
 - Fully Responsive
@@ -18,5 +16,3 @@ https://morphie.netlify.app/
 - https://unsplash.com/
 - https://michalsnik.github.io/aos/
 
-# Watch more
-For more videos visit to my Youtube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
